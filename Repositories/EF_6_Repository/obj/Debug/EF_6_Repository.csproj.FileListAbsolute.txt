@@ -1,0 +1,12 @@
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\bin\Debug\EF_6_Repository.dll.config
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\bin\Debug\EF_6_Repository.dll
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\bin\Debug\EF_6_Repository.pdb
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\bin\Debug\EntityFramework.dll
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\bin\Debug\EntityFramework.xml
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\obj\Debug\EF_6_Repository.csprojResolveAssemblyReference.cache
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\obj\Debug\EF_6_Repository.dll
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\obj\Debug\EF_6_Repository.pdb
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\bin\Debug\RepositoryBase.dll
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_6_Repository\bin\Debug\RepositoryBase.pdb

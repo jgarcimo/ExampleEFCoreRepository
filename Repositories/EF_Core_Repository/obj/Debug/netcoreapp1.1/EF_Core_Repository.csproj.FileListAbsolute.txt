@@ -1,0 +1,9 @@
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_Core_Repository\bin\Debug\netcoreapp1.1\EF_Core_Repository.deps.json
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_Core_Repository\bin\Debug\netcoreapp1.1\EF_Core_Repository.dll
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_Core_Repository\bin\Debug\netcoreapp1.1\EF_Core_Repository.pdb
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_Core_Repository\obj\Debug\netcoreapp1.1\EF_Core_Repository.csprojResolveAssemblyReference.cache
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_Core_Repository\obj\Debug\netcoreapp1.1\EF_Core_Repository.AssemblyInfo.cs
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_Core_Repository\obj\Debug\netcoreapp1.1\EF_Core_Repository.dll
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_Core_Repository\obj\Debug\netcoreapp1.1\EF_Core_Repository.pdb
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_Core_Repository\bin\Debug\netcoreapp1.1\RepositoryBase.dll
+C:\Users\jagar1981\Documents\Visual Studio 2017\Projects\Repositories\EF_Core_Repository\bin\Debug\netcoreapp1.1\RepositoryBase.pdb

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EF_6_Repository\EF_6_Repository_CF.csproj" />
+    <ProjectReference Include="..\RepositoryBase\RepositoryBase.csproj" />
+    <ProjectReference Include="..\RepositoryFactories\RepositoryAbstractFactories.csproj" />
+  </ItemGroup>
+
+</Project>
